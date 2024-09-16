@@ -1,3 +1,8 @@
+""" Seguindo o módulo "Sintaxe básica com Python", adotamos o paradigma procedural para entregar o sistema bancário requisitado
+    pela atividade, entregando as funcionalidades de maneira que o programa funcione conforme o esperado. Os nomes das funções são 
+    autoexplicativos quanto a suas funcionalidades e, de maneira muito simples, executam as movimentações realizadas pelo usuário.
+    """
+
 def menu():
     return """
     [1] Depositar
